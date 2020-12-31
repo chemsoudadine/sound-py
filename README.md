@@ -2,5 +2,6 @@
 This code just for test voice using PYTHON :
 - Frist : install playsound
 Use **`pip install playsound`**
-- Secoçnd : install gtts
+- Second : install gtts
 Use **`pip install gtts`**
+- Then : Downlod Code and enjoy it 
