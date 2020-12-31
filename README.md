@@ -1,7 +1,7 @@
 # sound-py
 This code just for test voice using PYTHON :
-- Frist : install playsound
+- 1 : install playsound
 Use **`pip install playsound`**
-- Second : install gtts
+- 2 : install gtts
 Use **`pip install gtts`**
-- Then : Downlod Code and enjoy it 
+- 3 : Downlod Code and enjoy it 
